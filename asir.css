@@ -1,0 +1,34 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
+h1.uno{
+    text-align: center;
+    color: orange;
+}
+a.uno{
+    color: orange;
+}
+div.uno{
+    background-color: lightskyblue;
+    text-align: center;
+}
+table{
+    color: blue;
+    position: relative;;
+    left: 500px;
+}
+p.uno{
+    color: blue;
+    text-align: center;
+    left: 500px;
+}
+div.cuatro{
+    background-color: yellow;
+}
+p.ocho{
+    text-align: center;
+    color: blue;
+}
+span{
+    color: red;
+}
